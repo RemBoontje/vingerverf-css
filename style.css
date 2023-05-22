@@ -1,6 +1,6 @@
-.sidebar__logo__character {
-  content: url(https://sue.eu/wp-content/uploads/sites/6/2022/06/sue-logo-gradient-v01.png);
-}
 .sidebar {
   background-color: #000160;
+}
+.sidebar__logo {
+  content: url(https://sue.eu/wp-content/uploads/sites/6/2022/06/sue-logo-gradient-v01.png);
 }
